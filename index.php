@@ -1,3 +1,3 @@
 <?php
-echo "Bla Bla Date :  ".date('D-M-Y');
+echo "bla Bla Bla Date :  ".date('D-M-Y');
 ?>
