@@ -1,3 +1,3 @@
 <?php
-echo "Todays Date is :  ".date('D-M-Y');
+echo "Date is :  ".date('D-M-Y');
 ?>
