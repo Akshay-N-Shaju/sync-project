@@ -1,3 +1,3 @@
 <?php
-echo date('D-M-Y');
+echo "wow".date('D-M-Y');
 ?>
