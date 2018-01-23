@@ -1,2 +1,4 @@
 //demo
-//blabla
+<?php
+echo "blablabla";
+?>
