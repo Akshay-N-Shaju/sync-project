@@ -1,3 +1,3 @@
 <?php
-echo date('D-M-Y');
+echo "Hola ".date('D-M-Y');
 ?>
