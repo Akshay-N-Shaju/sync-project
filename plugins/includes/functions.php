@@ -1,13 +1,4 @@
 <?php
-/**
- * WordPress OAuth Main Functions File
- *
- * @version 3.2.0 (IMPORTANT)
- *
- * Modifying this file will cause the plugin to crash. This could also result in the the entire WordPress install
- * to become unstable. This file is considered sensitive and thus we have provided simple protection against file
- * manipulation.
- */
 
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
