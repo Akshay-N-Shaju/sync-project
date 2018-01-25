@@ -1,14 +1,4 @@
 <?php
-/**
- * EXAMPLES
- *
- * 1. WP REST API Route with authentication
- * 2. Custom Login Form for Auth Code authentication
- *
- * @author Justin Greer <justin@justin-greer.com>
- *
- * @package WP OAuth Server
- */
 add_action( 'rest_api_init', function () {
 	register_rest_route( 'myplugin/v1', '/author/(?P<id>\d+)', array(
 		'methods'             => 'GET',
