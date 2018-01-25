@@ -1,14 +1,5 @@
 <?php
-/**
- * Grant Request Template
- *
- * This template is used when asking if the user would like to grant access to the client.
- *
- * @author Justin Greer <justin@justin-greer.com
- * @copyright Justin Greer Interactive, LLC
- *
- * @package WP-Nightly
- */
+
 
 if ( isset( $_POST['request-grant'] ) ) {
 	if ( wp_verify_nonce( $_POST['nonce'], 'grant-request' ) ) {
