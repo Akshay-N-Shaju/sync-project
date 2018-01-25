@@ -1,7 +1,5 @@
 <?php
-/**
- * WP OAuth Server API.
- */
+
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 do_action( 'wo_before_api', array( $_REQUEST ) );
