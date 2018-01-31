@@ -1,4 +1,2 @@
 # sync-project
-A demo git Sync project
-
-
+A Demo project to test jenkins :P
