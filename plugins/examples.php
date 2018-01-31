@@ -19,8 +19,6 @@ function my_awesome_func() {
 		'user_id' => $user_id
 	);
 }
-
-
 /**
  * CUSTOM LOGIN REDIRECT
  *
