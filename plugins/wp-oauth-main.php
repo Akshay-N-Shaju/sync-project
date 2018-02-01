@@ -39,7 +39,7 @@ class WO_Server {
 		'token_length'               => 40,
 		'beta'                       => 0
 	);
-
+   
 	function __construct() {
 
 		if ( ! defined( 'WOABSPATH' ) ) {

@@ -19,10 +19,13 @@ function my_awesome_func() {
 		'user_id' => $user_id
 	);
 }
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> fe6ae0a91a3d0db18c39455274203064cfa90688
 /**
  * CUSTOM LOGIN REDIRECT
  *
